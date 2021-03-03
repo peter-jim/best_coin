@@ -1,0 +1,2 @@
+def contract():
+    pass
